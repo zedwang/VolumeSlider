@@ -1,0 +1,21 @@
+{
+  "name": "vslider1.0",
+  "description": "custom event",
+  "main": "index.js",
+  "authors": [
+    "Zed"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "slider"
+  ],
+  "homepage": "https://github.com/zedwang/VolumeSlider",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
