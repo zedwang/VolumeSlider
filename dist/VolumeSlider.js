@@ -137,6 +137,7 @@
         },
         destroy: function () {
             this.element.innnerHTML = '';
+            this.scope_Events = {};
         }
 
     }
